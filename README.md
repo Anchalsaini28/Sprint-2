@@ -1,6 +1,6 @@
 # Sprint-2
 
-![image](https://github.com/user-attachments/assets/47fc21e0-be14-45cf-95c9-2b1c7636790f)
+![image](https://github.com/user-attachments/assets/fb988166-dd73-4982-9be3-0040686ebf84)
 
 # **Unlocking Trends and Insights in Indian Airlines Data Analysis**
 

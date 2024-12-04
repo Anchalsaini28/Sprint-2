@@ -1,9 +1,5 @@
 # Sprint-2
 
-Here is a detailed template for your GitHub **README.md** file to explain your project:
-
----
-
 # **Unlocking Trends and Insights in Indian Airlines Data Analysis**
 
 ## **Project Overview**
@@ -59,8 +55,7 @@ To run this project locally, follow these steps:
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/indian-airlines-data-analysis.git
-```
+git clone https://github.com/https://github.com/Anchalsaini28/Sprint-2
 
 ### **2. Install required libraries**
 This project uses `pandas`, `matplotlib`, `seaborn`, and `mysql-connector-python`. You can install the necessary libraries by running the following command:

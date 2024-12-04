@@ -115,9 +115,3 @@ If you wish to run queries directly on the dataset stored in MySQL:
 By analyzing ticket pricing, route preferences, and customer behavior, this project provides valuable insights that can help airlines optimize their operations and improve customer experience. The findings also offer travelers a clearer understanding of pricing trends and how to make informed decisions when booking flights.
 
 ---
-
-### **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
